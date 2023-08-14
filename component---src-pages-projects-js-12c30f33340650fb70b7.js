@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksamuel_tan=self.webpackChunksamuel_tan||[]).push([[853],{7219:function(e,t,n){n.r(t),n.d(t,{Head:function(){return u}});var a=n(7294),l=n(3783),c=n(9357);const u=()=>a.createElement(c.Z,{title:"Projects"});t.default=()=>a.createElement(l.Z,{pageTitle:"Projects"},a.createElement("h1",null,"Coming Soon!"))}}]);
+//# sourceMappingURL=component---src-pages-projects-js-12c30f33340650fb70b7.js.map
